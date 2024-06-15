@@ -21,3 +21,14 @@ dependencies {
 
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
+
+	dependencyResolutionManagement {
+		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+		repositories {
+			mavenCentral()
+			maven { url 'https://jitpack.io' }
+		}
+	}
+	dependencies {
+	        implementation 'com.github.Brayss12:simpleboardd:Tag'
+	}
