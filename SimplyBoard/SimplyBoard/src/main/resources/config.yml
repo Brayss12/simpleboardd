@@ -1,0 +1,10 @@
+scoreboard:
+  title: "&a&lMy&b&lServer"
+  lines:
+    - "&ePlayer: &f%player_name%"
+    - "&eMoney: &f%vault_eco_balance%"
+    - "&eKills: &f%statistic_player_kills%"
+    - "&eDeaths: &f%statistic_player_deaths%"
+    - ""
+    - "&a&m----------------"
+    - "&bwww.myserver.com"

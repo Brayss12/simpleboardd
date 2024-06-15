@@ -1,0 +1,8 @@
+name: SimplyBoard
+version: 1.0
+main: com.Simply.Board.plugin.SimplyBoard
+api-version: 1.13
+commands:
+  mio:
+    description: Comando di esempio
+    usage: /mio
